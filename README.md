@@ -1,0 +1,1 @@
+This repository contains all solutions to the Euler Problem Setlist I have done thus far, in Python!
