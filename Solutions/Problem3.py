@@ -7,7 +7,6 @@ import math
 
 
 def largest_prime(target):
-
     i = 2
 
     while i * i <= target:
@@ -19,9 +18,9 @@ def largest_prime(target):
 
 
 def main():
-    
     target = 600851475143
     result = largest_prime(target)
     print(result)
+
 
 main()
