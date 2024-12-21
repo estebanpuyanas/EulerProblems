@@ -11,3 +11,5 @@ Each code file follows the following structure:
 1. Top level pydoc with the name of the problem, its objective, and sometimes a brief case example. 
 2. The relevant function(s) needed to solve the problem 
 3. A main method which sets up the necessary information for the function(s) that solve the problem followed by a print statement so the user can see the result in the terminal. The set-up information in the main method can be changed to acquire different results as long as it does not attempt to break the logic of the function. 
+
+testing commit from intellij idea
