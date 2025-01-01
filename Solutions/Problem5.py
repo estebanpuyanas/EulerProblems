@@ -18,6 +18,7 @@ def smallest_evenly_divisble(start, end):
     
     return result
 
+# Simple implementation of Eucledian algorithm for learning purposes. Can use math.gcd() for built-in functionality. 
 def eucledian_gcd(num1, num2):
 
     # Convert input to absolute value to deal with negative

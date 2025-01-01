@@ -26,7 +26,6 @@ def sum_of_squares(start, end):
 def square_of_sum(start, end):
 
     number_list = [i for i in range(start, end + 1)]
-    
     number_list = sum(number_list)
     number_list = int(math.pow(number_list, 2))
 
