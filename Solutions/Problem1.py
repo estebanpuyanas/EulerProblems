@@ -15,7 +15,6 @@ def multipleCounter(limit):
 
     return sum_result
 
-
 def main():
 
     result = multipleCounter(1000)
